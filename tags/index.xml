@@ -10,29 +10,38 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt</language>
-    <lastBuildDate>Sun, 13 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.cienciaecomputacao.com/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Bem-vindo</title>
-      <link>https://www.cienciaecomputacao.com/tags/bem-vindo/</link>
-      <pubDate>Sun, 13 Mar 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.cienciaecomputacao.com/tags/bem-vindo/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Mon, 14 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.cienciaecomputacao.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Blogue</title>
       <link>https://www.cienciaecomputacao.com/tags/blogue/</link>
-      <pubDate>Sun, 13 Mar 2022 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 14 Mar 2022 00:00:00 +0000</pubDate>
       
       <guid>https://www.cienciaecomputacao.com/tags/blogue/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Ciência</title>
+      <link>https://www.cienciaecomputacao.com/tags/ci%C3%AAncia/</link>
+      <pubDate>Mon, 14 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.cienciaecomputacao.com/tags/ci%C3%AAncia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computação</title>
+      <link>https://www.cienciaecomputacao.com/tags/computa%C3%A7%C3%A3o/</link>
+      <pubDate>Mon, 14 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.cienciaecomputacao.com/tags/computa%C3%A7%C3%A3o/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Informação</title>
       <link>https://www.cienciaecomputacao.com/tags/informa%C3%A7%C3%A3o/</link>
-      <pubDate>Sun, 13 Mar 2022 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 14 Mar 2022 00:00:00 +0000</pubDate>
       
       <guid>https://www.cienciaecomputacao.com/tags/informa%C3%A7%C3%A3o/</guid>
       <description></description>
@@ -41,9 +50,18 @@
     <item>
       <title>Interessante</title>
       <link>https://www.cienciaecomputacao.com/tags/interessante/</link>
-      <pubDate>Sun, 13 Mar 2022 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 14 Mar 2022 00:00:00 +0000</pubDate>
       
       <guid>https://www.cienciaecomputacao.com/tags/interessante/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bem-vindo</title>
+      <link>https://www.cienciaecomputacao.com/tags/bem-vindo/</link>
+      <pubDate>Sun, 13 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.cienciaecomputacao.com/tags/bem-vindo/</guid>
       <description></description>
     </item>
     
