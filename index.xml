@@ -10,7 +10,61 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt</language>
-    <lastBuildDate>Sun, 13 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://nascimentorodrigo.github.io/cienciaecomputacao/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 14 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://nascimentorodrigo.github.io/cienciaecomputacao/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Installation | Update</title>
+      <link>https://nascimentorodrigo.github.io/cienciaecomputacao/posts/papermod/papermod-installation/</link>
+      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://nascimentorodrigo.github.io/cienciaecomputacao/posts/papermod/papermod-installation/</guid>
+      <description>Read Install and Update instructions here</description>
+    </item>
+    
+    <item>
+      <title>Features</title>
+      <link>https://nascimentorodrigo.github.io/cienciaecomputacao/posts/papermod/papermod-features/</link>
+      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://nascimentorodrigo.github.io/cienciaecomputacao/posts/papermod/papermod-features/</guid>
+      <description>Learn About All Features in PaperMod</description>
+    </item>
+    
+    <item>
+      <title>FAQs</title>
+      <link>https://nascimentorodrigo.github.io/cienciaecomputacao/posts/papermod/papermod-faq/</link>
+      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://nascimentorodrigo.github.io/cienciaecomputacao/posts/papermod/papermod-faq/</guid>
+      <description>Frequently Asked Questions</description>
+    </item>
+    
+    <item>
+      <title>Icons</title>
+      <link>https://nascimentorodrigo.github.io/cienciaecomputacao/posts/papermod/papermod-icons/</link>
+      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://nascimentorodrigo.github.io/cienciaecomputacao/posts/papermod/papermod-icons/</guid>
+      <description>List of all Icons supported by PaperMod</description>
+    </item>
+    
+    <item>
+      <title>Variables | Front Matter</title>
+      <link>https://nascimentorodrigo.github.io/cienciaecomputacao/posts/papermod/papermod-variables/</link>
+      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://nascimentorodrigo.github.io/cienciaecomputacao/posts/papermod/papermod-variables/</guid>
+      <description>List of Front Matter variables used by PaperMod</description>
+    </item>
+    
+    <item>
+      <title>Importância da Computação</title>
+      <link>https://nascimentorodrigo.github.io/cienciaecomputacao/posts/mar%C3%A7o_2022/import%C3%A2ncia-da-computacao/</link>
+      <pubDate>Mon, 14 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nascimentorodrigo.github.io/cienciaecomputacao/posts/mar%C3%A7o_2022/import%C3%A2ncia-da-computacao/</guid>
+      <description>Qual é a importância da computação na ciência?</description>
+    </item>
+    
     <item>
       <title>Bem-vindo ao blogue Ciência e Computação</title>
       <link>https://nascimentorodrigo.github.io/cienciaecomputacao/posts/mar%C3%A7o_2022/bem-vindo/</link>
