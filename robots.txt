@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://cienciaecomputacao.github.io/sitemap.xml
+Sitemap: https://nascimentorodrigo.github.io/cienciaecomputacao/sitemap.xml
