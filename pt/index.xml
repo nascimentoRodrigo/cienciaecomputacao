@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ciência e Computação</title>
+    <link>https://cienciaecomputacao.com/pt/</link>
+    <description>Ciência e Computação</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 28 Feb 2019 00:00:00 +0000</lastBuildDate>
+    
+    <atom:link href="https://cienciaecomputacao.com/pt/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Bem-vindo ao blogue Ciência e Computação</title>
+      <link>https://cienciaecomputacao.com/pt/post/boas_vindas/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://cienciaecomputacao.com/pt/post/boas_vindas/</guid>
+      <description>&lt;p&gt;Olá a todos, espero que todos estejam bem!&lt;/p&gt;
+&lt;p&gt;Estou criando esse site com foco na divulgação científica, com isso tenham a certeza que todos saímos ganhando, vocês com a informação de primeira mão sobre ciência e computação. Postarei nesse site os principais assuntos sobre a ciência e computação e espero que todos colaborem com ideias e sugestões ou mesmo críticas e opiniões. Infelizmente ainda existem muitos desafios a serem vencidos. Para começar, a divulgação científica de que podemos fazer na ciência com o auxílio da computação, ou seja praticamente começaremos do zero a entender que a computação também faz ciência não é somente utilizado para o desenvolvimento e programação de sistemas. Além do mais estamos acostumados a entender que a ciência só pode ser feita nas áreas mais tradicionais como a Ciência Biológica, Química, Física, Medicina, entre outras. Algo não tão visível com a computação. Contudo a computação é utilizada em diversas áreas como apoio para provar hipóteses que podem se tornar teorias, por meio de métodos como a simulação por exemplo.&lt;/p&gt;
+&lt;p&gt;Acompanhe conosco o desenvolvimento de nosso conhecimento e nos ajude a divulgar a ciência!&lt;/p&gt;
+&lt;p&gt;Abraços e muito obrigado!&lt;/p&gt;
+&lt;p&gt;At.te&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://cienciaecomputacao.com/pt/about/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://cienciaecomputacao.com/pt/about/</guid>
+      <description>&lt;p&gt;Written in Go, Hugo is an open source static site generator available under the &lt;a href=&#34;https://github.com/gohugoio/hugo/blob/master/LICENSE&#34;&gt;Apache Licence 2.0.&lt;/a&gt; Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.&lt;/p&gt;
+&lt;p&gt;Hugo makes use of a variety of open source projects including:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/yuin/goldmark&#34;&gt;https://github.com/yuin/goldmark&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/alecthomas/chroma&#34;&gt;https://github.com/alecthomas/chroma&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/muesli/smartcrop&#34;&gt;https://github.com/muesli/smartcrop&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/spf13/cobra&#34;&gt;https://github.com/spf13/cobra&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/spf13/viper&#34;&gt;https://github.com/spf13/viper&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.&lt;/p&gt;
+&lt;p&gt;Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.&lt;/p&gt;
+&lt;p&gt;Websites built with Hugo are extremelly fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.&lt;/p&gt;
+&lt;p&gt;Learn more and contribute on &lt;a href=&#34;https://github.com/gohugoio&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>About Subpage</title>
+      <link>https://cienciaecomputacao.com/pt/about/subpage/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://cienciaecomputacao.com/pt/about/subpage/</guid>
+      <description>&lt;p&gt;About subpage&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Second About Subpage</title>
+      <link>https://cienciaecomputacao.com/pt/about/subpage2/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://cienciaecomputacao.com/pt/about/subpage2/</guid>
+      <description>&lt;p&gt;Second About subpage&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

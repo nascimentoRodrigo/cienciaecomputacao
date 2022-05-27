@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://cienciaecomputacao.com/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://cienciaecomputacao.com/pt/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cienciaecomputacao.com/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://cienciaecomputacao.com/archives/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cienciaecomputacao.com/post/</loc>
+    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://cienciaecomputacao.com/pt/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cienciaecomputacao.com/post/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://cienciaecomputacao.com/tags/</loc>
+    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://cienciaecomputacao.com/pt/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cienciaecomputacao.com/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://cienciaecomputacao.com/tags/welcome/</loc>
+    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cienciaecomputacao.com/post/boas_vindas/</loc>
+    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://cienciaecomputacao.com/pt/post/boas_vindas/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cienciaecomputacao.com/post/boas_vindas/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://cienciaecomputacao.com/about/</loc>
+    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://cienciaecomputacao.com/pt/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cienciaecomputacao.com/about/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://cienciaecomputacao.com/about/subpage/</loc>
+    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://cienciaecomputacao.com/pt/about/subpage/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cienciaecomputacao.com/about/subpage/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://cienciaecomputacao.com/about/subpage2/</loc>
+    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://cienciaecomputacao.com/pt/about/subpage2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cienciaecomputacao.com/about/subpage2/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://cienciaecomputacao.com/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://cienciaecomputacao.com/pt/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cienciaecomputacao.com/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://cienciaecomputacao.com/tags/index/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://cienciaecomputacao.com/pt/tags/index/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cienciaecomputacao.com/tags/index/"
+                />
+  </url>
+  
+</urlset>

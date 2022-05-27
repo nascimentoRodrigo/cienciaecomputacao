@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Ciência e Computação</title>
+    <link>https://cienciaecomputacao.com/post/</link>
+    <description>Ciência e Computação (Posts)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 09 Mar 2019 00:00:00 +0000</lastBuildDate>
+    
+    <atom:link href="https://cienciaecomputacao.com/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Welcome to the Science and Computing blog</title>
+      <link>https://cienciaecomputacao.com/post/boas_vindas/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://cienciaecomputacao.com/post/boas_vindas/</guid>
+      <description>&lt;p&gt;Hello everyone, hope everyone is well!&lt;/p&gt;
+&lt;p&gt;I am creating this site with a focus on scientific dissemination, so make sure that we all win, you with first-hand information about science and computing. I will post on this site the main subjects about science and computing and I hope that everyone will collaborate with ideas and suggestions or even criticisms and opinions. Unfortunately, there are still many challenges to be overcome. To begin with, the scientific dissemination of what we can do in science with the aid of computing, that is, we will practically start from scratch to understand that computing also does science is not only used for the development and programming of systems. Furthermore, we are used to understanding that science can only be done in more traditional areas such as Biological Science, Chemistry, Physics, Medicine, among others. Something not so visible with computing. However, computing is used in several areas as a support to prove hypotheses that can become theories, through methods such as simulation for example.&lt;/p&gt;
+&lt;p&gt;Follow with us the development of our knowledge and help us spread science!&lt;/p&gt;
+&lt;p&gt;Hugs and thanks a lot!&lt;/p&gt;
+&lt;p&gt;See you&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

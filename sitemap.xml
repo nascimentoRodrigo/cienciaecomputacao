@@ -1,49 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <url>
-    <loc>https://www.cienciaecomputacao.com/tags/bem-vindo/</loc>
-    <lastmod>2022-03-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.cienciaecomputacao.com/posts/mar%C3%A7o_2022/bem-vindo/</loc>
-    <lastmod>2022-03-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.cienciaecomputacao.com/tags/blogue/</loc>
-    <lastmod>2022-03-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.cienciaecomputacao.com/</loc>
-    <lastmod>2022-03-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.cienciaecomputacao.com/tags/informa%C3%A7%C3%A3o/</loc>
-    <lastmod>2022-03-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.cienciaecomputacao.com/tags/interessante/</loc>
-    <lastmod>2022-03-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.cienciaecomputacao.com/posts/</loc>
-    <lastmod>2022-03-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.cienciaecomputacao.com/tags/</loc>
-    <lastmod>2022-03-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.cienciaecomputacao.com/archives/</loc>
-  </url><url>
-    <loc>https://www.cienciaecomputacao.com/search/</loc>
-  </url><url>
-    <loc>https://www.cienciaecomputacao.com/categories/</loc>
-  </url><url>
-    <loc>https://www.cienciaecomputacao.com/links/</loc>
-  </url><url>
-    <loc>https://www.cienciaecomputacao.com/membros/</loc>
-  </url><url>
-    <loc>https://www.cienciaecomputacao.com/projetos/</loc>
-  </url><url>
-    <loc>https://www.cienciaecomputacao.com/publicacoes/</loc>
-  </url><url>
-    <loc>https://www.cienciaecomputacao.com/series/</loc>
-  </url><url>
-    <loc>https://www.cienciaecomputacao.com/about/</loc>
-  </url><url>
-    <loc>https://www.cienciaecomputacao.com/communication/</loc>
-  </url>
-</urlset>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	
+	<sitemap>
+	   	<loc>https://cienciaecomputacao.com/en/sitemap.xml</loc>
+		
+	   	<lastmod>2019-05-28T00:00:00+00:00</lastmod>
+		
+	</sitemap>
+	
+	<sitemap>
+	   	<loc>https://cienciaecomputacao.com/pt/sitemap.xml</loc>
+		
+	   	<lastmod>2019-03-09T00:00:00+00:00</lastmod>
+		
+	</sitemap>
+	
+</sitemapindex>
