@@ -31,19 +31,11 @@
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
       
       <guid>https://cienciaecomputacao.com/pt/about/</guid>
-      <description>&lt;p&gt;Written in Go, Hugo is an open source static site generator available under the &lt;a href=&#34;https://github.com/gohugoio/hugo/blob/master/LICENSE&#34;&gt;Apache Licence 2.0.&lt;/a&gt; Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.&lt;/p&gt;
-&lt;p&gt;Hugo makes use of a variety of open source projects including:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/yuin/goldmark&#34;&gt;https://github.com/yuin/goldmark&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/alecthomas/chroma&#34;&gt;https://github.com/alecthomas/chroma&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/muesli/smartcrop&#34;&gt;https://github.com/muesli/smartcrop&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/spf13/cobra&#34;&gt;https://github.com/spf13/cobra&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/spf13/viper&#34;&gt;https://github.com/spf13/viper&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.&lt;/p&gt;
-&lt;p&gt;Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.&lt;/p&gt;
-&lt;p&gt;Websites built with Hugo are extremelly fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.&lt;/p&gt;
-&lt;p&gt;Learn more and contribute on &lt;a href=&#34;https://github.com/gohugoio&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+      <description>&lt;p&gt;O blogue tem como foco a divulgação científica em geral e da computação. Você deve está se perguntando o por que a computação está na divulgação científica? Primeiro temos que pensar que a computação atualmente está fixa em nossa mente de que é somente utilizado para desenvolvimento de sistemas, análise de sistemas, navegação na internet, programação de dispositivos móveis e até mesmo esse texto escrito no computador. Contudo a computação não é somente isso, existe muito mais aplicações por trás do que somente o uso comum e profissional, conhecido como uso científico,&lt;/p&gt;
+&lt;p&gt;O uso científico da computação pode ser vista nas mais variadas ciências a principal delas é uma área interessante que arisco dizer, a maioria ama a astronomia, astrofísica, entre outros. Por meio das simulações os cientístias tentam entender como funciona o universo e não somente isso, podemos por meio da simulação aplicada a biológia entender o funcionamento do crescimento bacteriano ou mesmo a evolução de doenças em cultivares importantes na agricultura. Até mesmo áreas que utilizam o aprendizado de máquina para classificação, regressão, agrupamentos, beneficiam-se da computação. Além do mais áreas como a biologia, agricultura, matemática, física, geografia, viram a importância da modelagem computacional. Para quem não sabe, a modelagem computacional é uma área da computação que tem a finalidade de buscar solução de problemas que precisam de conhecimento multidisciplinar, como por exemplo a bioinformática que precisa de conhecimento na biológia, computação e muitas vezes da química.&lt;/p&gt;
+&lt;p&gt;A área computacional é tão importante que serve como pilar para muitas teorias que precisam de observações que somente são possíveis por meios computacionais. Contudo não existe somente a computação aplicada, mas também a computação pura. Na qual por meio de pesquisas procura-se desenvolver um novo método computacional que pode ser aplicado em diversas sub-áreas, como por exemplo: Aprendizado de máquina, Ciência de Dados, Segurança, Reconhecimento de padrões, entre outros.&lt;/p&gt;
+&lt;p&gt;Convido vocês a participarem desse novo mundo e venha entender de uma vez como se faz ciência na computação.&lt;/p&gt;
+&lt;p&gt;Grande Abraços.&lt;/p&gt;
 </description>
     </item>
     
